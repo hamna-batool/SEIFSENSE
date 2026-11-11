@@ -1,0 +1,6 @@
+{
+  "name": "ShelfSense - Inventory & Expiry Management",
+  "description": "AI-assisted inventory and FEFO expiry management prototype for food manufacturing at Demo Foods Pvt Ltd in Multan, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
